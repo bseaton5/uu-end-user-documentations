@@ -1,42 +1,37 @@
-# Accessing Union Windows Virtual Desktop
+## Welcome to GitHub Pages
 
-## Accessing from Windows
+You can use the [editor on GitHub](https://github.com/bseaton5/uu-end-user-documentations/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-1. **Download Windows Client https://go.microsoft.com/fwlink/?linkid=2068602**
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-1. **Install Client once downloaded (RemoteDesktop\_1.2.xxx\_x64.msi)**
-1. **Click Next**
+### Markdown
 
-    ![image of Click Next](WinWelcome.png) 
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+```markdown
+Syntax highlighted code block
 
-1. **Accept Agreement and Click Next**
+# Header 1
+## Header 2
+### Header 3
 
-    ![image of Click Accept](WinAgree.png) 
+- Bulleted
+- List
 
+1. Numbered
+2. List
 
- 
-1. **Choose Install Just for you and click Install**
+**Bold** and _Italic_ and `Code` text
 
-    ![image of Click Just](WinProfile.png) 
+[Link](url) and ![Image](src)
+```
 
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-1. **Click Subscribe to a feed**
+### Jekyll Themes
 
-    ![image of Subscribe](WinSubscribe.png) 
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bseaton5/uu-end-user-documentations/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-1. **Login with your Union Account Information.**
-    
-    ![image of WinLogin](AzureSignIn.png) 
+### Support or Contact
 
-1. **Double Click Standard-Desktop**
-
-    ![image of Standard Desktop](WinRemoteClientSelectDesktop.png) 
-
-1. **Enter your username and password**
-
-    ![image of WinLogin](WinLoginBox.png) 
-
-
-> [!NOTE]
-> First Login will take a few moments as it sets up your user profile and will automatically setup OneDrive Client.                                                                                                                                                                                    
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
